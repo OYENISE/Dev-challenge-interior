@@ -14,12 +14,11 @@ header {
 
 .tops {
     color: white;
-    padding-top: 30px;
-    padding-left: 50px;
+    padding-top: 10px;
+    padding-left: 40px;
     font-family: 'Crimson Pro';
     box-sizing: border-box;
-    border: bold white;
-
+    margin-top: 30px;
 }
 
 
